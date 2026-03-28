@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux\\VendasLux.API.csproj": {}
+    "C:\\DesafioFinal\\VendasLux\\VendasLux.API.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Application\\VendasLux.Application.csproj": {
+    "C:\\DesafioFinal\\VendasLux.Application\\VendasLux.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Application\\VendasLux.Application.csproj",
+        "projectUniqueName": "C:\\DesafioFinal\\VendasLux.Application\\VendasLux.Application.csproj",
         "projectName": "VendasLux.Application",
-        "projectPath": "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Application\\VendasLux.Application.csproj",
+        "projectPath": "C:\\DesafioFinal\\VendasLux.Application\\VendasLux.Application.csproj",
         "packagesPath": "C:\\Users\\tabata.costa\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Application\\obj\\",
+        "outputPath": "C:\\DesafioFinal\\VendasLux.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Domain\\VendasLux.Domain.csproj": {
-                "projectPath": "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Domain\\VendasLux.Domain.csproj"
+              "C:\\DesafioFinal\\VendasLux.Domain\\VendasLux.Domain.csproj": {
+                "projectPath": "C:\\DesafioFinal\\VendasLux.Domain\\VendasLux.Domain.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Domain\\VendasLux.Domain.csproj": {
+    "C:\\DesafioFinal\\VendasLux.Domain\\VendasLux.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Domain\\VendasLux.Domain.csproj",
+        "projectUniqueName": "C:\\DesafioFinal\\VendasLux.Domain\\VendasLux.Domain.csproj",
         "projectName": "VendasLux.Domain",
-        "projectPath": "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Domain\\VendasLux.Domain.csproj",
+        "projectPath": "C:\\DesafioFinal\\VendasLux.Domain\\VendasLux.Domain.csproj",
         "packagesPath": "C:\\Users\\tabata.costa\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Domain\\obj\\",
+        "outputPath": "C:\\DesafioFinal\\VendasLux.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -140,14 +140,14 @@
         }
       }
     },
-    "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Infrastructure\\VendasLux.Infrastructure.csproj": {
+    "C:\\DesafioFinal\\VendasLux.Infrastructure\\VendasLux.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Infrastructure\\VendasLux.Infrastructure.csproj",
+        "projectUniqueName": "C:\\DesafioFinal\\VendasLux.Infrastructure\\VendasLux.Infrastructure.csproj",
         "projectName": "VendasLux.Infrastructure",
-        "projectPath": "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Infrastructure\\VendasLux.Infrastructure.csproj",
+        "projectPath": "C:\\DesafioFinal\\VendasLux.Infrastructure\\VendasLux.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\tabata.costa\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Infrastructure\\obj\\",
+        "outputPath": "C:\\DesafioFinal\\VendasLux.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -169,8 +169,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Domain\\VendasLux.Domain.csproj": {
-                "projectPath": "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Domain\\VendasLux.Domain.csproj"
+              "C:\\DesafioFinal\\VendasLux.Domain\\VendasLux.Domain.csproj": {
+                "projectPath": "C:\\DesafioFinal\\VendasLux.Domain\\VendasLux.Domain.csproj"
               }
             }
           }
@@ -210,14 +210,14 @@
         }
       }
     },
-    "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux\\VendasLux.API.csproj": {
+    "C:\\DesafioFinal\\VendasLux\\VendasLux.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux\\VendasLux.API.csproj",
+        "projectUniqueName": "C:\\DesafioFinal\\VendasLux\\VendasLux.API.csproj",
         "projectName": "VendasLux.API",
-        "projectPath": "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux\\VendasLux.API.csproj",
+        "projectPath": "C:\\DesafioFinal\\VendasLux\\VendasLux.API.csproj",
         "packagesPath": "C:\\Users\\tabata.costa\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux\\obj\\",
+        "outputPath": "C:\\DesafioFinal\\VendasLux\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -239,14 +239,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Application\\VendasLux.Application.csproj": {
-                "projectPath": "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Application\\VendasLux.Application.csproj"
+              "C:\\DesafioFinal\\VendasLux.Application\\VendasLux.Application.csproj": {
+                "projectPath": "C:\\DesafioFinal\\VendasLux.Application\\VendasLux.Application.csproj"
               },
-              "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Domain\\VendasLux.Domain.csproj": {
-                "projectPath": "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Domain\\VendasLux.Domain.csproj"
+              "C:\\DesafioFinal\\VendasLux.Domain\\VendasLux.Domain.csproj": {
+                "projectPath": "C:\\DesafioFinal\\VendasLux.Domain\\VendasLux.Domain.csproj"
               },
-              "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Infrastructure\\VendasLux.Infrastructure.csproj": {
-                "projectPath": "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Infrastructure\\VendasLux.Infrastructure.csproj"
+              "C:\\DesafioFinal\\VendasLux.Infrastructure\\VendasLux.Infrastructure.csproj": {
+                "projectPath": "C:\\DesafioFinal\\VendasLux.Infrastructure\\VendasLux.Infrastructure.csproj"
               }
             }
           }

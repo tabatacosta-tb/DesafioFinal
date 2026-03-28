@@ -507,11 +507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux\\VendasLux.API.csproj",
+      "projectUniqueName": "C:\\DesafioFinal\\VendasLux\\VendasLux.API.csproj",
       "projectName": "VendasLux.API",
-      "projectPath": "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux\\VendasLux.API.csproj",
+      "projectPath": "C:\\DesafioFinal\\VendasLux\\VendasLux.API.csproj",
       "packagesPath": "C:\\Users\\tabata.costa\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux\\obj\\",
+      "outputPath": "C:\\DesafioFinal\\VendasLux\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -533,14 +533,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Application\\VendasLux.Application.csproj": {
-              "projectPath": "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Application\\VendasLux.Application.csproj"
+            "C:\\DesafioFinal\\VendasLux.Application\\VendasLux.Application.csproj": {
+              "projectPath": "C:\\DesafioFinal\\VendasLux.Application\\VendasLux.Application.csproj"
             },
-            "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Domain\\VendasLux.Domain.csproj": {
-              "projectPath": "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Domain\\VendasLux.Domain.csproj"
+            "C:\\DesafioFinal\\VendasLux.Domain\\VendasLux.Domain.csproj": {
+              "projectPath": "C:\\DesafioFinal\\VendasLux.Domain\\VendasLux.Domain.csproj"
             },
-            "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Infrastructure\\VendasLux.Infrastructure.csproj": {
-              "projectPath": "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Infrastructure\\VendasLux.Infrastructure.csproj"
+            "C:\\DesafioFinal\\VendasLux.Infrastructure\\VendasLux.Infrastructure.csproj": {
+              "projectPath": "C:\\DesafioFinal\\VendasLux.Infrastructure\\VendasLux.Infrastructure.csproj"
             }
           }
         }

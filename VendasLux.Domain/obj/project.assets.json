@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Domain\\VendasLux.Domain.csproj",
+      "projectUniqueName": "C:\\DesafioFinal\\VendasLux.Domain\\VendasLux.Domain.csproj",
       "projectName": "VendasLux.Domain",
-      "projectPath": "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Domain\\VendasLux.Domain.csproj",
+      "projectPath": "C:\\DesafioFinal\\VendasLux.Domain\\VendasLux.Domain.csproj",
       "packagesPath": "C:\\Users\\tabata.costa\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\VendasLux\\backend\\VendasLux\\VendasLux.Domain\\obj\\",
+      "outputPath": "C:\\DesafioFinal\\VendasLux.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

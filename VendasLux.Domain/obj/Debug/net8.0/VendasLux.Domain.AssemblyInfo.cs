@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VendasLux.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5a44807bac3203e519e1c93ad34a90552c0ef4b")]
 [assembly: System.Reflection.AssemblyProductAttribute("VendasLux.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VendasLux.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,3 +9,15 @@ C:\Projetos\VendasLux\backend\VendasLux\VendasLux.Domain\obj\Debug\net8.0\Vendas
 C:\Projetos\VendasLux\backend\VendasLux\VendasLux.Domain\obj\Debug\net8.0\refint\VendasLux.Domain.dll
 C:\Projetos\VendasLux\backend\VendasLux\VendasLux.Domain\obj\Debug\net8.0\VendasLux.Domain.pdb
 C:\Projetos\VendasLux\backend\VendasLux\VendasLux.Domain\obj\Debug\net8.0\ref\VendasLux.Domain.dll
+C:\DesafioFinal\VendasLux.Domain\bin\Debug\net8.0\VendasLux.Domain.deps.json
+C:\DesafioFinal\VendasLux.Domain\bin\Debug\net8.0\VendasLux.Domain.dll
+C:\DesafioFinal\VendasLux.Domain\bin\Debug\net8.0\VendasLux.Domain.pdb
+C:\DesafioFinal\VendasLux.Domain\obj\Debug\net8.0\VendasLux.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesafioFinal\VendasLux.Domain\obj\Debug\net8.0\VendasLux.Domain.AssemblyInfoInputs.cache
+C:\DesafioFinal\VendasLux.Domain\obj\Debug\net8.0\VendasLux.Domain.AssemblyInfo.cs
+C:\DesafioFinal\VendasLux.Domain\obj\Debug\net8.0\VendasLux.Domain.csproj.CoreCompileInputs.cache
+C:\DesafioFinal\VendasLux.Domain\obj\Debug\net8.0\VendasLux.Domain.sourcelink.json
+C:\DesafioFinal\VendasLux.Domain\obj\Debug\net8.0\VendasLux.Domain.dll
+C:\DesafioFinal\VendasLux.Domain\obj\Debug\net8.0\refint\VendasLux.Domain.dll
+C:\DesafioFinal\VendasLux.Domain\obj\Debug\net8.0\VendasLux.Domain.pdb
+C:\DesafioFinal\VendasLux.Domain\obj\Debug\net8.0\ref\VendasLux.Domain.dll
